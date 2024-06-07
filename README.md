@@ -57,5 +57,5 @@ Travel Tracker is a web application that allows users to track the countries the
 - **Track Visited Countries:** Use the interactive map to select and highlight countries you have visited.
 - **View Dashboard:** See a list of your visited countries and other user stats.
 
-## Project Structure
+
 
